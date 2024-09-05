@@ -53,8 +53,5 @@ _______________________________________________________________
 5 stars= custom amount of views⭐
 
 
-10 stars= cracked.io viewbot!⭐
-
-
 not working? dizzy daapia
 contact me on there
