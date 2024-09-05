@@ -7,6 +7,14 @@ just input the html url
 
 
 
+OR THE URL BAR
+
+
+![{935E1E1D-BDA3-420D-B494-1839FC892143}](https://github.com/user-attachments/assets/32d8a76b-c2fb-4d9d-83ad-fb78b08a230d)
+
+
+
+
 
 
 
