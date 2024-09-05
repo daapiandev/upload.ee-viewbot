@@ -1,4 +1,3 @@
-# made with love ❤
 import requests
 import threading
 import random
@@ -80,6 +79,8 @@ def main():
             'https://www.proxy-list.download/api/v1/get?type=socks4',
             'https://www.proxy-list.download/api/v1/get?type=socks5',
             'https://www.proxy-list.download/api/v1/get?type=https&anon=elite',
+            'https://api.lumiproxy.com/web_v1/free-proxy/list?page_size=60&page=1&protocol=2&language=en-us',
+            'https://api.lumiproxy.com/web_v1/free-proxy/list?page_size=60&page=1&protocol=1&language=en-us',
             'https://www.proxy-list.download/api/v1/get?type=https&anon=anonymous'
         ]
         proxies = get_proxies_from_apis(api_urls)
@@ -99,3 +100,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
