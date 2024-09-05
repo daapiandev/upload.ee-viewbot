@@ -14,14 +14,19 @@ just input the html url
 
 
 
-
-
 it does so with a proxy and a useragent
+![{3E997173-437F-435D-863F-43184FE1C13C}](https://github.com/user-attachments/assets/635036a3-98c3-4e1c-816f-f10d1a0a00e4)
 
 
 
 
 
+![{6BBAFF6C-9B96-4823-B7EA-1D62D1B0E4F4}](https://github.com/user-attachments/assets/8b5f84f4-6e59-432e-9e3b-9219ce2e809f)
+
+
+
+
+______________________________________________________________
 
 features
 
@@ -33,7 +38,7 @@ features
 
 -own proxies can be included too
 
-
+_______________________________________________________________
 
 
 
