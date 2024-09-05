@@ -86,7 +86,7 @@ def main():
     else:
         return
 
-    test_url = input("Enter the upload.ee HTML URL to test the proxies on: ").strip()
+    test_url = input("Enter the upload.ee HTML URL: ").strip()
 
     threads = []
     for proxy in proxies:
