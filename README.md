@@ -26,6 +26,11 @@ it does so with a proxy and a useragent
 
 
 
+
+
+
+!U MIGHT HAVE TOO WAIT A BIT FOR THE VIEWER COUNT TO BE UPDATED!
+
 ______________________________________________________________
 
 features⭐
