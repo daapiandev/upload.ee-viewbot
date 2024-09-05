@@ -28,7 +28,7 @@ it does so with a proxy and a useragent
 
 ______________________________________________________________
 
-features
+features⭐
 
 -request based
 
@@ -45,8 +45,8 @@ _______________________________________________________________
 
 
 
-
-10 stars= cracked.io viewbot!
+5 stars= custom amount of views⭐
+10 stars= cracked.io viewbot!⭐
 
 
 not working? dizzy daapia
