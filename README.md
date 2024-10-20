@@ -61,5 +61,5 @@ _______________________________________________________________
 5 stars= custom amount of views⭐
 
 
-not working? dizzy daapia
+not working? dizzy daap_.
 contact me on there
